@@ -59,7 +59,7 @@
             <div class="col-md-12">
                <div class="alignc">
                   <div class="smalltitle white margin-b16">Come and See</div>
-                  <h2>We create delicious experiences</h2>
+                  <h2>PUBLIC RELATIONS</h2>
                </div>
             </div>
          </div>
