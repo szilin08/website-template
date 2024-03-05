@@ -22,7 +22,7 @@
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 14, 2023</li>
-                           <li class="meta-categ"><a href="#" rel="category tag">Food</a> <a href="#" rel="category tag">Recipes</a></li>
+                           <li class="meta-categ"><a href="#" rel="category tag">Services</a> <a href="#" rel="category tag"></a></li>
                         </ul>
                         <h2 class="article-title"><a href="blog-single-post.php">Public Relations</a></h2>
                         <div class="article-excerpt">Connecting you to the people who matter most. We take you beyond networking. We help you grow relationships.</div>
@@ -58,12 +58,10 @@
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 12, 2023</li>
-                           <li class="meta-categ"><a href="#" rel="category tag">Recipes</a></li>
+                           <li class="meta-categ"><a href="#" rel="category tag">Services</a></li>
                         </ul>
-                        <h2 class="article-title"><a href="blog-single-post.php">Restaurant Signature Dinner</a></h2>
-                        <div class="article-excerpt">Maecenas ornare varius mauris eu commodo. Aenean nibh risus,
-                           rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et
-                           gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit ...</div>
+                        <h2 class="article-title"><a href="blog-single-post.php">Crisis Simulation/Crisis Management</a></h2>
+                        <div class="article-excerpt">Effective communications to protect reputation / Humaneness in every message we communicate and deliver.</div>
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
@@ -81,18 +79,16 @@
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 11, 2023</li>
-                           <li class="meta-categ"><a href="#" rel="category tag">Desserts</a></li>
+                           <li class="meta-categ"><a href="#" rel="category tag">Services</a></li>
                         </ul>
-                        <h2 class="article-title"><a href="blog-single-post.php">Chocolate Muffins Gift</a></h2>
-                        <div class="article-excerpt">Maecenas ornare varius mauris eu commodo. Aenean nibh risus,
-                           rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et
-                           gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit ...</div>
+                        <h2 class="article-title"><a href="blog-single-post.php">Media Training</a></h2>
+                        <div class="article-excerpt">Communicating effectively with the press.</div>
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
                </div>
                <!-- /col-md-4 -->
-               <div class="col-md-4">
+               <!--<div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
                         <div class="post-image"> <img src="images/blog/blog4.jpg" class="img-fluid"
@@ -101,7 +97,7 @@
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 10, 2023</li>
-                           <li class="meta-categ"><a href="#" rel="category tag">Desserts</a> <a href="#"
+                           <li class="meta-categ"><a href="#" rel="category tag">Services</a> <a href="#"
                                  rel="category tag">Recipes</a></li>
                         </ul>
                         <h2 class="article-title"><a href="blog-single-post.php">Royal Yacht Club Cocktail</a></h2>
@@ -111,9 +107,9 @@
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
-               </div>
-               <!-- /col-md-4 -->
-               <div class="col-md-4">
+               </div> -->
+               <!-- /col-md-4 --> 
+             <!--  <div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
                         <div class="post-image"> <img src="images/blog/blog7.jpg" class="img-fluid"
@@ -133,11 +129,11 @@
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
-               </div>
+               </div> -->
                <!-- /col-md-4 -->
-            </div>
+       <!--     </div>
             <!-- /row -->
-            <div class="row">
+           <!-- <div class="row">
                <div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
@@ -158,7 +154,7 @@
                   </article>
                </div>
                <!-- /col-md-4 -->
-               <div class="col-md-4">
+              <!-- <div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
                         <div class="post-image"> <img src="images/blog/blog5.jpg" class="img-fluid"
@@ -179,7 +175,7 @@
                   </article>
                </div>
                <!-- /col-md-4 -->
-               <div class="col-md-4">
+             <!--  <div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
                         <div class="post-image"> <img src="images/blog/blog6.jpg" class="img-fluid"
@@ -200,7 +196,7 @@
                </div>
                <!-- /col-md-4 -->
             </div>
-            <!-- /row -->
+          <!--  <!-- /row -->
             <div class="prev-next"><span class="nav-page"></span><span class="page-numbers current-page">1</span> <a
                   class="page-numbers" href="#" title="Page 2">2</a> <span class="nav-page"><a href="#">Older
                      &rarr;</a></span></div>
