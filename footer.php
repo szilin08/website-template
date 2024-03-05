@@ -75,7 +75,7 @@
          <!-- COPYRIGHT -->
          <div class="footer-copy">
             <p>Copyright &copy;
-               <?php echo date("Y"); ?>, Designed by <a href="https://github.com/ozceliksinan">Sinan Özçelik</a>
+               <?php echo date("Y"); ?>, Designed by <a href="https://github.com/szilin08">Steffie Phang</a>
             </p>
          </div>
       </div>
