@@ -27,9 +27,9 @@
    <div id="home-content-1" class="home-section home-section-1">
       <div class="container">
          <div class="row align-items-center">
-            <div class="col-md-3">
+           <!-- <div class="col-md-3">
                <img src="images/home/welcome-1.jpg" alt="Welcome 1" />
-            </div>
+            </div> -->
             <!-- /col-md-3 -->
             <div class="col-md-6">
                <div class="alignc">
