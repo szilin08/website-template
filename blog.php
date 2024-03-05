@@ -21,7 +21,7 @@
                      </a>
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
-                           <li class="meta-date">March 14, 2023</li>
+                           <li class="meta-date">March 5, 2024</li>
                            <li class="meta-categ"><a href="#" rel="category tag">Services</a> <a href="#" rel="category tag"></a></li>
                         </ul>
                         <h2 class="article-title"><a href="blog-single-post.php">Public Relations</a></h2>
@@ -195,9 +195,9 @@
                   </article>
                </div>
                <!-- /col-md-4 -->
-            </div>
+           <!-- </div>
           <!--  <!-- /row -->
-            <div class="prev-next"><span class="nav-page"></span><span class="page-numbers current-page">1</span> <a
+          <!--  <div class="prev-next"><span class="nav-page"></span><span class="page-numbers current-page">1</span> <a
                   class="page-numbers" href="#" title="Page 2">2</a> <span class="nav-page"><a href="#">Older
                      &rarr;</a></span></div>
          </section>
