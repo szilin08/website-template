@@ -58,8 +58,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="alignc">
-                  <div class="smalltitle white margin-b16">Come and See</div>
-                  <h2>PUBLIC RELATIONS</h2>
+               <!--   <div class="smalltitle white margin-b16">Come and See</div>
+                <!--  <h2>PUBLIC RELATIONS</h2>
                </div>
             </div>
          </div>
@@ -294,11 +294,11 @@
                <!-- /row -->
           <!--  </div> 
             <!-- /col-md-6 -->
-         </div>
+        <!-- </div>
          <!-- /row -->
-      </div>
+    <!--  </div>
       <!-- /container -->
-   </div>
+   <!--</div>
    <!-- /SECTION 5 -->
    <!-- SECTION 6 -->
    <div id="home-content-6" class="home-section home-section-6 parallax padding-tb108">
