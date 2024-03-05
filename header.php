@@ -88,7 +88,9 @@
                 <li class="menu-item menu-item-has-children">
                     <a href="team.php">Team</a>
                 </li>
-                
+                <li class="menu-item menu-item-has-children">
+                    <a href="blog.php">Services</a>
+                </li>
                 <li class="menu-item menu-item-has-children">
                     <a href="contact.php">Contact</a>
                 </li>
