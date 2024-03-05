@@ -363,17 +363,16 @@
                </div>
                <div class="row">
                   <div class="col-md-6">
-                     <div class="widgettitle">Private Dining</div>
-                     <p>The Main Dining Room can accommodate up to 18 guests and requires either a half night or full
-                        night buyout. Reservations are available online 6 weeks before the date of the reservation.</p>
+                     <div class="widgettitle">Your Success Starts with a Conversation</div>
+                     <p>Embark on your journey to success with just one conversation. Reach out today and let's start shaping your story together.</p>
                      <div class="mobile-margin-b48"></div>
                   </div>
                   <!-- /col-md-6 -->
                   <div class="col-md-6">
-                     <div class="widgettitle">Private Events</div>
-                     <p>Looking for an ideal venue? Look no further. Corporate dinners, special occasions, Chef’s Table,
-                        let us handle your needs. Reservations are available online 6 weeks before the date of the
-                        reservation.</p>
+                     <div class="widgettitle">Get in Touch for PR Excellence</div>
+                     <p>Looking for a PR partner that delivers results? Look no further. Our team of seasoned professionals is dedicated to achieving excellence in every aspect of your PR strategy. 
+                        From media relations to reputation management, we're here to elevate your brand and ensure your message resonates with your audience. 
+                        Contact us today to start your journey towards PR excellence.</p>
                   </div>
                   <!-- /col-md-6 -->
                </div>
