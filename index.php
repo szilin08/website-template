@@ -53,7 +53,7 @@
    </div>
    <!-- /SECTION 1 -->
    <!-- SECTION 2 -->
-   <div id="home-content-2" class="home-section home-section-2 parallax">
+   <!--<div id="home-content-2" class="home-section home-section-2 parallax">
       <div class="container">
          <div class="row">
             <div class="col-md-12">
@@ -64,9 +64,9 @@
             </div>
          </div>
          <!-- /row -->
-      </div>
+    <!--  </div>
       <!-- /container -->
-   </div>
+  <!-- </div>
    <!-- /SECTION 2 -->
    <!-- SECTION 3 -->
   <!-- <div id="home-content-3" class="home-section home-section-3">
