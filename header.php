@@ -43,11 +43,12 @@
                 <li class="menu-item">
                     <a href="about-us.php">About Us</a>
                 </li>
-            
                 <li class="menu-item">
                     <a href="team.php">Team</a>
                 </li>
-               
+                <li class="menu-item">
+                    <a href="blog.php">Services</a>
+                </li>
                 <li class="menu-item">
                     <a href="contact.php">Contact</a>
                 </li>
