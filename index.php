@@ -68,7 +68,7 @@
       <!-- /container -->
    </div>
    <!-- /SECTION 2 -->
-   <!-- SECTION 3 -->
+  <!-- <!-- SECTION 3 -->
    <div id="home-content-3" class="home-section home-section-3">
       <div class="container">
          <div class="row">
@@ -247,7 +247,7 @@
       </div>
       <!-- /container -->
    </div>
-   <!-- /SECTION 3 -->
+   <!-- /SECTION 3 --> -->
    <!-- SECTION 4 -->
    <div id="home-content-4" class="home-section home-section-4 parallax">
       <div class="container">
