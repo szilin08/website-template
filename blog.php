@@ -42,7 +42,7 @@
                            <li class="meta-date">March 13, 2023</li>
                            <li class="meta-categ"><a href="#" rel="category tag">Services</a> </li>
                         </ul>
-                        <h2 class="article-title"><a href="blog-single-post.php">PUBLIC AFFAIRS/GOVERNMENT RELATIONS</a></h2>
+                        <h2 class="article-title"><a href="blog-single-post.php">Public Affairs/Government Relations</a></h2>
                         <div class="article-excerpt">Raise the profile of your organisation with the stakeholders that matter and stand out using the right information.</div>
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
