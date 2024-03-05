@@ -68,8 +68,8 @@
       <!-- /container -->
    </div>
    <!-- /SECTION 2 -->
-  <!-- <!-- SECTION 3 -->
-   <div id="home-content-3" class="home-section home-section-3">
+   <!-- SECTION 3 -->
+  <!-- <div id="home-content-3" class="home-section home-section-3">
       <div class="container">
          <div class="row">
             <div class="col-md-12">
@@ -79,9 +79,9 @@
                   <div class="width60">Explore texture, color and of course the ultimate tastes with our menu of the
                      season. All the ingredients are fresh and carefully selected by our chefs. Enjoy an extraordinary
                      dinning experience.</div>
-               </div>
+               </div> -->
                <!-- MENU TAB -->
-               <ul class="nav nav-tabs menuTab" id="menuTab" role="tablist">
+              <!-- <ul class="nav nav-tabs menuTab" id="menuTab" role="tablist">
                   <li class="nav-item">
                      <a class="nav-link active" id="starters-tab" data-toggle="tab" href="#starters" role="tab"
                         aria-controls="starters" aria-selected="true">STARTERS</a>
@@ -101,7 +101,7 @@
                </ul>
                <div class="tab-content" id="menuTabContent">
                   <!-- STARTERS -->
-                  <div class="tab-pane fade show active" id="starters" role="tabpanel" aria-labelledby="starters-tab">
+                 <!-- <div class="tab-pane fade show active" id="starters" role="tabpanel" aria-labelledby="starters-tab">
                      <ul class="food-menu menu-2cols">
                         <li>
                            <h4><span class="menu-title">Tomato Bruschetta</span><span class="menu-price">$4.00</span>
@@ -143,9 +143,9 @@
                            <div class="menu-text">Finnish Squeaky Cheese, Eggplant Conserva, Black Pepper</div>
                         </li>
                      </ul>
-                  </div>
+                  </div> -->
                   <!-- MAIN COURSE -->
-                  <div class="tab-pane fade" id="main-course" role="tabpanel" aria-labelledby="main-course-tab">
+                 <!-- <div class="tab-pane fade" id="main-course" role="tabpanel" aria-labelledby="main-course-tab">
                      <ul class="food-menu menu-2cols">
                         <li>
                            <h4><span class="menu-title">Braised Pork Chops</span><span class="menu-price">$21.00</span>
@@ -183,8 +183,8 @@
                         </li>
                      </ul>
                   </div>
-                  <!-- SOUPS -->
-                  <div class="tab-pane fade" id="soups" role="tabpanel" aria-labelledby="soups-tab">
+                  <!-- SOUPS --> -->
+                  <!--<div class="tab-pane fade" id="soups" role="tabpanel" aria-labelledby="soups-tab">
                      <ul class="food-menu menu-2cols">
                         <li>
                            <h4><span class="menu-title">Terrific Turkey Chili</span><span
@@ -219,7 +219,7 @@
                      </ul>
                   </div>
                   <!-- DESSERTS -->
-                  <div class="tab-pane fade" id="desserts" role="tabpanel" aria-labelledby="desserts-tab">
+                 <!-- <div class="tab-pane fade" id="desserts" role="tabpanel" aria-labelledby="desserts-tab">
                      <ul class="food-menu menu-2cols">
                         <li>
                            <h4><span class="menu-title">Summer Berry and Coconut Tart</span><span
@@ -239,7 +239,7 @@
                      </ul>
                   </div>
                </div>
-               <!-- /MENU TAB -->
+               <!-- /MENU TAB --> -->
             </div>
             <!-- /col-md-12 -->
          </div>
