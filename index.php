@@ -249,7 +249,7 @@
    </div>
    <!-- /SECTION 3 --> -->
    <!-- SECTION 4 -->
-   <div id="home-content-4" class="home-section home-section-4 parallax">
+<!--   <div id="home-content-4" class="home-section home-section-4 parallax">
       <div class="container">
          <div class="row">
             <div class="col-md-12">
@@ -257,7 +257,7 @@
                   <div class="smalltitle white margin-b16">Now booking</div>
                   <h2>Private Dinners & Happy Hours</h2>
                </div> -->
-            </div>
+          <!--  </div> -->
          </div>
          <!-- /row -->
       </div>
