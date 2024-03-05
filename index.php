@@ -42,9 +42,9 @@
                </div>
             </div>
             <!-- /col-md-6 -->
-            <div class="col-md-3">
+            <!--<div class="col-md-3">
                <img src="images/home/welcome-2.jpg" alt="Welcome 2" />
-            </div>
+            </div>-->
             <!-- /col-md-3 -->
          </div>
          <!-- /row -->
