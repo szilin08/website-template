@@ -35,10 +35,9 @@
                <div class="alignc">
                   <div class="smalltitle margin-b16">Welcome</div>
                   <h2 class="home-title"><em>“People don't buy what you do. They buy why you do it - Simon Sinek"</em></h2>
-                  <p>For a truly memorable dining experience, cuisine and atmosphere are paired as thoughtfully as food
-                     and wine. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Quia consequuntur magni
-                     dolores eos qui ratione voluptatem sequi nesciunt. Animi, id est laborum et dolorum fuga. Nam
-                     libero.</p>
+                  <p>At Ebm (Essential Business Malaysia), we help draw our clients’ communications objectives closer to the people that they want to connect with.We bring international and domestic business communications experience to a multitude of stakeholders which  include A-Board listed companies, GLCs and multinationals with interest in Malaysia.
+                     Ebm (Essential Business Malaysia) works closely with in-house teams and international partners to achieve agile, strategic communications campaigns that enable you to pivot with shifting market demand.
+                     Get in touch with us to set up a consultation, or use the contact form at the bottom of this page to enquire whether our services are right for you..</p>
                   <p><a class="view-more margin-t24" href="reservation.php">Book a Table</a></p>
                </div>
             </div>
