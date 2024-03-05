@@ -23,10 +23,10 @@
                   <div id="text-3" class="widget widget-footer widget_text">
                      <h5 class="widgettitle"><span>Address</span></h5>
                      <div class="textwidget">
-                        <p>New York<br>
-                           New York, New York 1111<br>
+                        <p>Bangsar Menara BDRM<br>
+                           Jalan Maarof, Kuala Lumpur<br>
                            P: +1 800 000 111<br>
-                           E: contact@example.com
+                           E: felix@edm-my.com
                         </p>
                      </div>
                   </div>
