@@ -17,17 +17,15 @@
                <div class="col-md-4">
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
-                        <div class="post-image"> <img src="images/blog/blog9.jpg" class="img-fluid" alt="Chef New Summer Dish"></div>
+                        <div class="post-image"> <img src="images/blog/blog9.jpg" class="img-fluid" alt="Public Relations"></div>
                      </a>
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 14, 2023</li>
                            <li class="meta-categ"><a href="#" rel="category tag">Food</a> <a href="#" rel="category tag">Recipes</a></li>
                         </ul>
-                        <h2 class="article-title"><a href="blog-single-post.php">Chef New Summer Dish</a></h2>
-                        <div class="article-excerpt">Maecenas ornare varius mauris eu commodo. Aenean nibh risus,
-                           rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et
-                           gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit ...</div>
+                        <h2 class="article-title"><a href="blog-single-post.php">Public Relations</a></h2>
+                        <div class="article-excerpt">Connecting you to the people who matter most. We take you beyond networking. We help you grow relationships.</div>
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
@@ -37,17 +35,15 @@
                   <article class="blog-item blog-item-3col-grid">
                      <a href="blog-single-post.php">
                         <div class="post-image"> <img src="images/blog/blog8.jpg" class="img-fluid"
-                              alt="Realm of the Spirit Whisky"></div>
+                              alt="PUBLIC AFFAIRS/GOVERNMENT RELATIONS"></div>
                      </a>
                      <div class="post-holder post-content content-grid">
                         <ul class="post-meta">
                            <li class="meta-date">March 13, 2023</li>
-                           <li class="meta-categ"><a href="#" rel="category tag">Food</a> </li>
+                           <li class="meta-categ"><a href="#" rel="category tag">Services</a> </li>
                         </ul>
-                        <h2 class="article-title"><a href="blog-single-post.php">Realm of the Spirit Whisky</a></h2>
-                        <div class="article-excerpt">Maecenas ornare varius mauris eu commodo. Aenean nibh risus,
-                           rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et
-                           gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit ...</div>
+                        <h2 class="article-title"><a href="blog-single-post.php">PUBLIC AFFAIRS/GOVERNMENT RELATIONS</a></h2>
+                        <div class="article-excerpt">Raise the profile of your organisation with the stakeholders that matter and stand out using the right information.</div>
                         <a class="view-more" href="blog-single-post.php">Read More </a>
                      </div>
                   </article>
