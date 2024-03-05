@@ -34,7 +34,7 @@
             <div class="col-md-6">
                <div class="alignc">
                   <div class="smalltitle margin-b16">Welcome</div>
-                  <h2 class="home-title">Dining at Restaurant</h2>
+                  <h2 class="home-title"><em>“People don't buy what you do. They buy why you do it - Simon Sinek"</em></h2>
                   <p>For a truly memorable dining experience, cuisine and atmosphere are paired as thoughtfully as food
                      and wine. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Quia consequuntur magni
                      dolores eos qui ratione voluptatem sequi nesciunt. Animi, id est laborum et dolorum fuga. Nam
