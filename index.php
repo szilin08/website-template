@@ -253,10 +253,10 @@
       <div class="container">
          <div class="row">
             <div class="col-md-12">
-               <div class="alignc">
+              <!-- <div class="alignc">
                   <div class="smalltitle white margin-b16">Now booking</div>
                   <h2>Private Dinners & Happy Hours</h2>
-               </div>
+               </div> -->
             </div>
          </div>
          <!-- /row -->
@@ -265,7 +265,7 @@
    </div>
    <!-- /SECTION 4 -->
    <!-- SECTION 5 -->
-   <div id="home-content-5" class="home-section home-section-5">
+  <!-- <div id="home-content-5" class="home-section home-section-5">
       <div class="container">
          <div class="row align-items-center">
             <div class="col-md-6">
@@ -279,20 +279,20 @@
                   <p><a class="view-more margin-t24" href="team.php">Find More</a></p>
                </div>
             </div>
-            <!-- /col-md-6 -->
-            <div class="col-md-6">
+            <!-- /col-md-6 --> -->
+         <!--   <div class="col-md-6">
                <div class="row">
                   <div class="col-6 col-md-6">
                      <img src="images/home/home-team-1.jpg" alt="Team 1" />
                   </div>
                   <!-- /col-md-3 -->
-                  <div class="col-6 col-md-6">
+                <!--  <div class="col-6 col-md-6">
                      <img src="images/home/home-team-2.jpg" alt="Team 2" />
                   </div>
                   <!-- /col-md-3 -->
-               </div>
+             <!--  </div>
                <!-- /row -->
-            </div>
+          <!--  </div> 
             <!-- /col-md-6 -->
          </div>
          <!-- /row -->
