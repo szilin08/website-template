@@ -302,6 +302,9 @@
    <!-- /SECTION 5 -->
    <!-- SECTION 6 -->
 <?php include 'about-us.php'; ?>
+<?php include 'team.php'; ?>
+<?php include 'blog.php'; ?>
+<?php include 'contact.php'; ?>
    <div id="home-content-6" class="home-section home-section-6 parallax padding-tb108">
       <div class="container">
          <div class="row">
