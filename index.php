@@ -247,7 +247,7 @@
       </div>
       <!-- /container -->
    </div>
-   <!-- /SECTION 3 --> -->
+   <!-- /SECTION 3 --> 
    <!-- SECTION 4 -->
 <!--   <div id="home-content-4" class="home-section home-section-4 parallax">
       <div class="container">
