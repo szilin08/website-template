@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <!-- TOP IMAGE -->
-<section class=" topPageBkg">
+<section class="topSingleBkg topPageBkg">
    <div class="item-img top-blog-grid-3cols"></div>
    <div class="inner-desc">
       <h1 class="post-title single-post-title">Our Services</h1>
