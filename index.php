@@ -357,7 +357,7 @@
    </div>
    <!-- /SECTION 6 -->
    <!-- SECTION 7 -->
-   <div id="home-content-7" class="home-section home-section-7">
+<!--   <div id="home-content-7" class="home-section home-section-7">
       <div class="container">
          <div class="row">
             <div class="col-md-12">
@@ -372,16 +372,16 @@
                      <div class="mobile-margin-b48"></div>
                   </div>
                   <!-- /col-md-6 -->
-                  <div class="col-md-6">
+           <!--       <div class="col-md-6">
                      <div class="widgettitle">Get in Touch for PR Excellence</div>
                      <p>Looking for a PR partner that delivers results? Look no further. Our team of seasoned professionals is dedicated to achieving excellence in every aspect of your PR strategy. 
                         From media relations to reputation management, we're here to elevate your brand and ensure your message resonates with your audience. 
                         Contact us today to start your journey towards PR excellence.</p>
                   </div>
                   <!-- /col-md-6 -->
-               </div>
+        <!--       </div>
                <!-- /row -->
-               <div id="contact-holder-home">
+        <!--       <div id="contact-holder-home">
                   <form method="post" id="contact-form-home" action='include/contact-process-home.php'>
                      <div class="row reserve-holder">
                         <div class="col-md-4">
@@ -398,7 +398,7 @@
                         </div>
                      </div>
                      <!-- /row -->
-                     <p><textarea name="message" cols="40" rows="5" id="msg-contact" aria-required="true"
+      <!--               <p><textarea name="message" cols="40" rows="5" id="msg-contact" aria-required="true"
                            aria-invalid="false" placeholder="Your Message"></textarea></p>
                      <p class="antispam">Leave this empty: <input type="text" name="url" /></p>
                      <p class="alignc"><input value="Book Now" id="submit-contact" type="submit"></p>
@@ -407,12 +407,12 @@
                <div id="output-contact"></div>
             </div>
             <!-- /col-md-12 -->
-         </div>
+ <!--        </div>
          <!-- /row -->
-      </div>
+ <!--       </div>
       <!-- /container -->
-   </div>
+ <!--    </div>
    <!-- /SECTION 7 -->
-</div>
+ <!-- </div>
 <!-- /WRAP CONTENT -->
 <?php include 'footer.php'; ?>
