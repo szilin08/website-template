@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
 <!-- TOP IMAGE -->
-<!--<section class="topSingleBkg topPageBkg" style="padding: 10px 0;"> -->
+<section class="topSingleBkg topPageBkg" style="padding: 10px 0;">
    <div class="inner-desc">
-      <h1 class="post-title single-post-title" style="color: black; margin-bottom: 5px;">Our Services</h1>
-    
+      <h1 class="post-title single-post-title" style="color: black; margin: 5px 0 0;">Our Services</h1>
    </div>
 </section>
+
 <!-- /TOP IMAGE -->
 <!-- WRAP CONTENT -->
 <div class="container blog-holder">
