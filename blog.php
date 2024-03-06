@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- TOP IMAGE -->
-<section class="topSingleBkg " style="padding: 10px 0; background: none;">
+<section class="topSingleBkg2 " style="padding: 10px 0; background: none;">
    <div class="inner-desc">
       <h1 class="post-title single-post-title" style="color: black; margin: 5px 0 0;">Our Services</h1>
    </div>
