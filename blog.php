@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <!-- TOP IMAGE -->
-<section class="topSingleBkg topPageBkg" style="padding: 20px 0;">
+<section class="topSingleBkg topPageBkg" style="padding: 5px 0;">
    <div class="inner-desc">
       <h1 class="post-title single-post-title" style="color: black; margin-bottom: 10px;">Our Services</h1>
       <span class="post-subtitle">Latest News</span>
