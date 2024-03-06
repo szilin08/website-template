@@ -1,4 +1,4 @@
-<!--<?php include 'header.php'; ?> -->
+<?php include 'header.php'; ?> 
 
 <!-- HOME SLIDER -->
 <div class="slider-container">
