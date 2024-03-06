@@ -206,4 +206,4 @@
    </div>
    <!-- /row -->
 </div>
-<?php include 'footer.php'; ?>
+
