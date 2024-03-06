@@ -239,7 +239,7 @@
                      </ul>
                   </div>
                </div>
-               <!-- /MENU TAB --> -->
+               <!-- /MENU TAB --> 
             </div>
             <!-- /col-md-12 -->
          </div>
