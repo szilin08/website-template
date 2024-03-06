@@ -240,7 +240,7 @@
                   </div>
                </div>
                <!-- /MENU TAB --> 
-            </div>
+   <!--         </div>
             <!-- /col-md-12 -->
          </div>
          <!-- /row -->
