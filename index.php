@@ -305,7 +305,7 @@
 <?php include 'team.php'; ?>
 <?php include 'blog.php'; ?>
 <?php include 'contact.php'; ?>
-   <div id="home-content-6" class="home-section home-section-6 parallax padding-tb108">
+<!--   <div id="home-content-6" class="home-section home-section-6 parallax padding-tb108">
       <div class="container">
          <div class="row">
             <div class="col-md-10 offset-md-1">
@@ -348,13 +348,13 @@
                   </div>
                </div>
                <!-- /testimonial-slider -->
-            </div>
+<!--            </div>
             <!-- /col-md-12 -->
-         </div>
+  <!--         </div>
          <!-- /row -->
-      </div>
+    <!--    </div>
       <!-- /container -->
-   </div>
+  <!--   </div>
    <!-- /SECTION 6 -->
    <!-- SECTION 7 -->
 <!--   <div id="home-content-7" class="home-section home-section-7">
