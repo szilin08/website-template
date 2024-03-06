@@ -92,4 +92,3 @@
 </div>
 <!-- /WRAP CONTENT -->
 
-<?php include 'footer.php'; ?>
