@@ -240,14 +240,14 @@
                   </div>
                </div>
                <!-- /MENU TAB --> -->
-          <!--  </div>
+            </div>
             <!-- /col-md-12 -->
-        <!--  </div>
+         </div>
          <!-- /row -->
-     <!--  </div>
+      </div>
       <!-- /container -->
-  <!--  </div>
-   <!-- /SECTION 3 --> 
+   </div>
+   <!-- /SECTION 3 --> -->
    <!-- SECTION 4 -->
 <!--   <div id="home-content-4" class="home-section home-section-4 parallax">
       <div class="container">
@@ -258,11 +258,11 @@
                   <h2>Private Dinners & Happy Hours</h2>
                </div> -->
           <!--  </div> -->
-       <!--   </div>
+         </div>
          <!-- /row -->
-    <!--   </div>
+      </div>
       <!-- /container -->
-  <!--  </div>
+   </div>
    <!-- /SECTION 4 -->
    <!-- SECTION 5 -->
   <!-- <div id="home-content-5" class="home-section home-section-5">
