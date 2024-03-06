@@ -39,8 +39,8 @@
                      Ebm (Essential Business Malaysia) works closely with in-house teams and international partners to achieve agile, strategic communications campaigns that enable you to pivot with shifting market demand.
                      Get in touch with us to set up a consultation, or use the contact form at the bottom of this page to enquire whether our services are right for you..</p>
                   <p><a class="view-more margin-t24"  href="contact.php"">Book a Consultation</a></p>
-               </div>
-            </div>
+             <!--  </div>
+           <!-- </div>
             <!-- /col-md-6 -->
             <!--<div class="col-md-3">
                <img src="images/home/welcome-2.jpg" alt="Welcome 2" />
