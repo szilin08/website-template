@@ -77,7 +77,7 @@
                   <!-- /col-md-3 -->
                </div>
                <!-- /row -->
-               <div class="alignc">
+         <!--      <div class="alignc">
                   <div class="smalltitle margin-none">Join our Team</div>
                   <h2>We are looking for new talents</h2>
                   <p><a class="view-more" href="contact.php">Contact Us</a></p>
