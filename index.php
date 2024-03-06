@@ -46,11 +46,11 @@
                <img src="images/home/welcome-2.jpg" alt="Welcome 2" />
             </div>-->
             <!-- /col-md-3 -->
-         </div>
+         <!--</div>
          <!-- /row -->
-      </div>
+     <!-- </div>
       <!-- /container -->
-   </div>
+  <!-- </div>
    <!-- /SECTION 1 -->
    <!-- SECTION 2 -->
    <!--<div id="home-content-2" class="home-section home-section-2 parallax">
