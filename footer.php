@@ -8,7 +8,7 @@
                <div class="foo-block">
                   <div id="text-2" class="widget widget-footer widget_text">
                      <div class="textwidget">
-                        <p><img class="size-full wp-image-665" src="images/icons/favicon.png" alt="" width="153" height="51"></p>
+                        <p><img class="size-full wp-image-665" src="images/icons/favicon.png" alt=""  height="51"></p>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum eaque sit doloremque, facilis,
                            animi consequatur nostrum ipsam.</p>
                      </div>
