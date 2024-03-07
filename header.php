@@ -76,13 +76,13 @@
         </div>
         <div class="logo logo-1"><a href="index.php"><img class="img-fluid" src="images/ebm.png" alt="" /></a></div>
         <nav class="nav-holder nav-holder-1">
-        <!--    <ul class="menu-nav menu-nav-1">
+            <ul class="menu-nav menu-nav-1">
                 <li class="menu-item menu-item-has-children current-menu-item">
                     <a href="index.php">Home</a>
                 </li>
             
                 <li class="menu-item menu-item-has-children">
-                    <a href="about-us.php">About Us</a>
+                    <a href="#about-us">About Us</a>
                 </li>
                
                 <li class="menu-item menu-item-has-children">
