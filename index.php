@@ -242,9 +242,9 @@
                <!-- /MENU TAB --> 
    <!--         </div>
             <!-- /col-md-12 -->
-         </div>
+    <!--     </div>
          <!-- /row -->
-      </div>
+   <!--   </div>
       <!-- /container -->
    </div>
    <!-- /SECTION 3 --> 
