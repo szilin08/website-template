@@ -36,7 +36,7 @@
                 <span class="icon-bar2"></span>
             </div>
             <!-- MOBILE MENU -->
-            <ul class="menu-mobile">
+    <!--        <ul class="menu-mobile">
                 <li class="menu-item current-menu-item">
                     <a href="index.php">Home</a>
                 </li>
@@ -58,11 +58,11 @@
         <div class="menu-contact">
             <div class="mobile-btn"> <a href="#" class="view-more">Book a Table</a></div>
             <ul class="mobile-contact">
-                <li class="mobile-address">New York<br />
-                    New York, New York 1111
+                <li class="mobile-address">Menara BDRM<br />
+                    Bangsar, Kuala Lumpur
                 </li>
                 <li class="mobile-phone">+1 800 000 111</li>
-                <li class="mobile-email">contact@example.com</li>
+                <li class="mobile-email">felix@ebm-my.com</li>
             </ul>
         </div>
     </div>
@@ -76,7 +76,7 @@
         </div>
         <div class="logo logo-1"><a href="index.php"><img class="img-fluid" src="images/ebm.png" alt="" /></a></div>
         <nav class="nav-holder nav-holder-1">
-            <ul class="menu-nav menu-nav-1">
+        <!--    <ul class="menu-nav menu-nav-1">
                 <li class="menu-item menu-item-has-children current-menu-item">
                     <a href="index.php">Home</a>
                 </li>
