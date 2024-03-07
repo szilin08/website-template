@@ -21,6 +21,17 @@
    </div>
 </div>
 <!-- /HOME SLIDER -->
+   <header>
+      <nav>
+         <ul>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#team">Team</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+         </ul>
+      </nav>
+   </header>
+
 <!-- WRAP CONTENT -->
 <div id="wrap-content" class="page-content custom-page-template">
    <!-- SECTION 1 -->
@@ -301,7 +312,9 @@
    <!--</div>
    <!-- /SECTION 5 -->
    <!-- SECTION 6 -->
-<?php include 'about-us.php'; ?>
+   <div id="about-us" class="home-section home-section-1">
+         <?php include 'about-us.php'; ?>
+   </div>
 <?php include 'team.php'; ?>
 <?php include 'blog.php'; ?>
 <?php include 'contact.php'; ?>
