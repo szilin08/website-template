@@ -36,12 +36,12 @@
                 <span class="icon-bar2"></span>
             </div>
             <!-- MOBILE MENU -->
-    <!--        <ul class="menu-mobile">
+            <ul class="menu-mobile">
                 <li class="menu-item current-menu-item">
                     <a href="index.php">Home</a>
                 </li>
                 <li class="menu-item">
-                    <a href="about-us.php">About Us</a>
+                    <a href="#about-us">About Us</a>
                 </li>
                 <li class="menu-item">
                     <a href="team.php">Team</a>
