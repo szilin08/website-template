@@ -44,13 +44,13 @@
                     <a href="#about-us">About Us</a>
                 </li>
                 <li class="menu-item">
-                    <a href="team.php">Team</a>
+                    <a href="#team">Team</a>
                 </li>
                 <li class="menu-item">
-                    <a href="blog.php">Services</a>
+                    <a href="#blog">Services</a>
                 </li>
                 <li class="menu-item">
-                    <a href="contact.php">Contact</a>
+                    <a href="#contact">Contact</a>
                 </li>
             </ul>
             <!-- /MOBILE MENU -->
@@ -86,13 +86,13 @@
                 </li>
                
                 <li class="menu-item menu-item-has-children">
-                    <a href="team.php">Team</a>
+                    <a href="#team">Team</a>
                 </li>
                 <li class="menu-item menu-item-has-children">
-                    <a href="blog.php">Services</a>
+                    <a href="#blog">Services</a>
                 </li>
                 <li class="menu-item menu-item-has-children">
-                    <a href="contact.php">Contact</a>
+                    <a href="#contact">Contact</a>
                 </li>
             </ul>
         </nav>
