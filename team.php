@@ -3,7 +3,7 @@
 <section class="topSingleBkg2 topPageBkg">
    <div class="item-img top-team-4cols" style = "margin-bottom:-200px;"></div>
    <div class="inner-desc">
-      <h1 class="post-title single-post-title">Teamt</h1>
+      <h1 class="post-title single-post-title">Team</h1>
  
 </section>
 <!-- /TOP IMAGE -->
