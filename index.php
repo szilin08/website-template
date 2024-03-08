@@ -8,7 +8,7 @@
          <div class="slider-caption">
             <div class="slider-text">
                <div class="intro-txt">WELCOME TO</div>
-               <h2>Essential Business Malaysia</h2>
+               <h2><span style="color: blue;">E</span><span style="color: blue;">B</span><span style="color: blue;">M</span> Essential Business Malaysia</h2>
                <p>Essential Business Malaysia bridges gap between your objectives and audience<br />
                   <a href="contact.php" class="slider-btn" style="font-size: 18px; padding: 12px 24px;">Contact Us</a>
 
