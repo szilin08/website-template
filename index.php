@@ -304,13 +304,12 @@
    <div id="about-us" class="home-section home-section-1">
          <?php include 'about-us.php'; ?>
    </div>
-   <div id="team" class="home-section home-section-2 parallax">
+   <div id="team" >
          <?php include 'team.php'; ?>
    </div>
-   <div id="blog" class="home-section home-section-3">
          <?php include 'blog.php'; ?>
    </div>
-   <div id="contact" class="home-section home-section-4 parallax">
+   <div id="contact" >
         <?php include 'contact.php'; ?>
    </div>
 <!--   <div id="home-content-6" class="home-section home-section-6 parallax padding-tb108">
