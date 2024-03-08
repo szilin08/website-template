@@ -306,7 +306,7 @@
    </div>
    <div id="team" >
          <?php include 'team.php'; ?>
-   </div>
+   </div id="blog" >
          <?php include 'blog.php'; ?>
    </div>
    <div id="contact" >
