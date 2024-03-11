@@ -3,8 +3,8 @@
 <div class="slider-container">
    <div class="owl-carousel owl-theme home-slider">
       <div class="slider-post slider-item-box-bkg">
-         <video class="slider-img video " autoplay muted loop>
-            <source src="../images/pages-top/slider-1.mp4" type="video/mp4">
+         <video class="slider-img slide-1" autoplay muted loop>
+           <!-- <source src="../images/pages-top/slider-1.mp4" type="video/mp4"> -->
             Your browser does not support the video tag.
          </video>
          <div class="slider-caption">
