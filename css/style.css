@@ -1243,14 +1243,14 @@ a.social-skype:hover {
 
 /* SLIDER */
 
-.video {
+.slider-img.video {
   position: relative;
   width: 100%;
   height: 100vh;
   overflow: hidden;
 }
 
-.video video {
+.slider-img.video video {
   position: absolute;
   top: 0;
   left: 0;
