@@ -3008,6 +3008,22 @@ footer a,
   background-image: url('../images/pages-top/slider-1.mp4');
 }
 
+.slider-container {
+    position: relative;
+}
+
+.slider-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Ensure the video stays behind other content */
+}
+
+.owl-carousel {
+    /* Adjust carousel styles as needed */
+}
 .slide-2 {
   background-image: url('../images/pages-top/slider-2.jpg');
 }
