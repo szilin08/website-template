@@ -103,7 +103,7 @@
                 <!--<li><a class="social-tripadvisor" href="#" target="_blank"><i class="fab fa-tripadvisor"></i></a></li>-->
                 <li><a class="social-instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
             </ul>
-            <div class="btn-header btn-header1"> <a href="contact.php" class="view-more">Contact Us Now</a>
+            <div class="btn-header btn-header1"> <a href="#contact" class="view-more">Contact Us Now</a>
             </div>
         </div>
     </header>
