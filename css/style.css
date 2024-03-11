@@ -1243,6 +1243,7 @@ a.social-skype:hover {
 
 /* SLIDER */
 .slider-container {
+	width: 100%;
   position: relative;
   height: 100vh;
   margin-bottom: 108px;
