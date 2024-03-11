@@ -8,7 +8,7 @@
          <div class="slider-caption">
             <div class="slider-text">
                <div class="intro-txt">WELCOME TO</div>
-               <h2><span style="color: white;">E</span><span style="color: #000080;">ssential </span><span style="color: white;">B</span><span style="color: #000080;">usiness </span><span style="color: white;">M</span><span style="color: #000080;">alaysia</span></h2>
+               <h2><span style="color: white;">E</span><span style="color: #007bff;">ssential </span><span style="color: white;">B</span><span style="color: #007bff;">usiness </span><span style="color: white;">M</span><span style="color: #007bff;">alaysia</span></h2>
                <p>Essential Business Malaysia bridges gap between your objectives and audience<br />
                   <a href="contact.php" class="slider-btn" style="font-size: 18px; padding: 12px 24px;">Contact Us</a>
 
