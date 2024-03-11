@@ -1,17 +1,18 @@
 <?php include 'header.php'; ?> 
-
 <!-- HOME SLIDER -->
 <div class="slider-container">
    <div class="owl-carousel owl-theme home-slider">
       <div class="slider-post slider-item-box-bkg">
-        <div class="slider-img slide-1"></div>
+         <video class="slider-video slide-1" autoplay muted loop>
+            <source src="../images/pages-top/slider-1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+         </video>
          <div class="slider-caption">
             <div class="slider-text">
                <div class="intro-txt">WELCOME TO</div>
                <h2><span style="color: white;">E</span><span style="color: #007bff;">ssential </span><span style="color: white;">B</span><span style="color: #007bff;">usiness </span><span style="color: white;">M</span><span style="color: #007bff;">alaysia</span></h2>
                <p>Essential Business Malaysia bridges gap between your objectives and audience<br />
                   <a href="contact.php" class="slider-btn" style="font-size: 18px; padding: 12px 24px;">Contact Us</a>
-
                </p>
             </div>
          </div>
