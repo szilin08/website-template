@@ -3008,6 +3008,10 @@ footer a,
   background-image: url('../images/pages-top/slider-1.mp4');
 }
 
+.slider-img video {
+  width: 100%;
+  height: auto;
+}
 
 .slider-video {
     position: absolute;
