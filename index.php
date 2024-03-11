@@ -1,8 +1,8 @@
 <?php include 'header.php'; ?> 
 <!-- HOME SLIDER -->
-<!--<div class="slider-container"> -->
+<div class="slider-container"> 
    <div class="owl-carousel owl-theme home-slider">
-      <div class="slider-post slider-item-box-bkg">
+     <!-- <div class="slider-post slider-item-box-bkg"> -->
          <video class="slider-img " autoplay muted loop width = "100%">
           <source src="../images/pages-top/slider-1.mp4" type="video/mp4" width = 100%> 
             Your browser does not support the video tag.
