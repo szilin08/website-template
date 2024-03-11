@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?> 
 <!-- HOME SLIDER -->
-<div class="slider-container">
+<!--<div class="slider-container"> -->
    <div class="owl-carousel owl-theme home-slider">
       <div class="slider-post slider-item-box-bkg">
          <video class="slider-img " autoplay muted loop width = "100%">
