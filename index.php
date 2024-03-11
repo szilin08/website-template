@@ -1,5 +1,11 @@
 <?php include 'header.php'; ?> 
 <!-- HOME SLIDER -->
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Other meta tags and stylesheets -->
+</head>
+
 <div class="slider-container"> 
    <div class="owl-carousel owl-theme home-slider">
      <div class="slider-post "> 
